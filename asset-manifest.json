@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mourningDove/static/css/main.4acfa217.css",
-    "main.js": "/mourningDove/static/js/main.f574c30c.js",
-    "static/js/453.78b57cc2.chunk.js": "/mourningDove/static/js/453.78b57cc2.chunk.js",
-    "index.html": "/mourningDove/index.html",
-    "main.4acfa217.css.map": "/mourningDove/static/css/main.4acfa217.css.map",
-    "main.f574c30c.js.map": "/mourningDove/static/js/main.f574c30c.js.map",
-    "453.78b57cc2.chunk.js.map": "/mourningDove/static/js/453.78b57cc2.chunk.js.map"
+    "main.css": "./static/css/main.4acfa217.css",
+    "main.js": "./static/js/main.6fbccfa6.js",
+    "static/js/453.78b57cc2.chunk.js": "./static/js/453.78b57cc2.chunk.js",
+    "index.html": "./index.html",
+    "main.4acfa217.css.map": "./static/css/main.4acfa217.css.map",
+    "main.6fbccfa6.js.map": "./static/js/main.6fbccfa6.js.map",
+    "453.78b57cc2.chunk.js.map": "./static/js/453.78b57cc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4acfa217.css",
-    "static/js/main.f574c30c.js"
+    "static/js/main.6fbccfa6.js"
   ]
 }
